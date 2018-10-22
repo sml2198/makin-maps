@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Makin' Maps with TechSoc and VLP!</title>
+  <meta charset='utf-8'>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+<link href='big.css' rel='stylesheet' type='text/css' />
+<script src='big.js'></script>
+</head>
+<body>
+
+
+<div>Welcome to <em>Makin' Maps with TechSoc and VLP!</em>! Go to <a href='http://bit.ly/2fZZW0J'>http://bit.ly/2fZZW0J</a> to follow along. <a href='http://www.sarahmakesmaps.com'>Links</a> are in blue boxes, <em>green</em> is just emphasis. Use &harr; to navigate.</div>
+
+<div>What is <em>humanitarian</em> mapping?</div>
+<div>Volunteering time to generate <em>geospatial data</em> for parts of the world where it is incomplete or inexistent. 
+<notes>As we said, geospatial data is agency. It can be used for proactive measures, like city and community planning, resource
+mapping, environmental studies, lobbying for representation, etc. But it can also be used for reactive measure in the wake
+of humantiarian crises, when geospatial data is key to first responders on the ground, who at a very basic level, first need
+to know where there are residential communities and settlements that need aid, or to be evacuated. Then they need data for
+routing, navigation, knowing which roads are passable, etc. By being a humantiarian mapper, you're making this all possible.</div>
+
+<div>What is <em>OpenStreetMap</em>? Why OSM? </div>
+
+<div>OSM is like Wikipedia for maps. It's all <a href='http://opendatacommons.org/licenses/odbl/'>open data</a>!</div
+
+<div>Want to get data out of <em>OSM</em>? Check out <a href='https://mapzen.com/data/metro-extracts'>Mapzen Metro Extracts</a> &amp; <a href='http://download.geofabrik.de/'>Geofabrik</a></div>
+
+<div>Let's chat: <a href='https://twitter.com/sarahmakesmaps'>@sarahmakesmaps</a> <a href='https://twitter.com/maptimeSV'>@maptimeSV</a> <a href='http://www.sarahmakesmaps.com'>sarahmakesmaps.com</a>
+<notes>Psst, my personal email is sarah.michael.levine@gmail.com</notes></div>
+
+<div>Thanks to <a href='http://maptime.io/'>MaptimeHQ</a> for presentation &amp; map inspiration, always.</div>
+
+<div>Made with <em>BIG</em> presentation software for busy busy hackers. You can comment and edit on github: <a href='https://github.com/tmcw/big'>https://github.com/tmcw/big</a></div>
+
+</body>
+</html>
